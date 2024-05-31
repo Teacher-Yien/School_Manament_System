@@ -1,0 +1,6 @@
+Homework
+========
+
+1-Install SQL Server (LocalDb/SqlExpress), and config to make sure it works properly in your working computer.
+2-Using any SQL Server client applications: SqlCmd, SQL Server Management Studio, Visual Studio IDE to execute 
+  script to create database, drop database, create table, drop table, ...

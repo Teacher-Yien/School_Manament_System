@@ -1,0 +1,61 @@
+JSON Serialization/Deserialization
+====================================
+  -JSON > JavaScript Object Notation
+  -JSON string > a string with a specific data formatted, "propertyname/fieldname": data
+   eg1: a person object:
+	 	{
+			"name":"heng dara", 
+			"age":23, 
+			"height":1.68
+		}
+
+   eg2: array of persons:
+		 [ 
+			{
+				"name":"heng dara", 
+				"age":23, 
+				"height":1.68
+			}, 
+			{
+				"name":"van dany", 
+				"age":18, 
+				"height":1.55
+			}
+		]
+
+	eg3: An order object:
+		{
+			"no": 123,
+			"amount":35.5,
+			"customer": 
+			{
+				"fullname": "heng long",
+				"contact": "tel:099 999991"
+			},
+			"orderDetails":
+			[
+				{
+					"productCode": "PRD001",
+					"price": 6.0,
+					"quantity":5.0 
+				},
+				{
+					"productCode": "PRD002",
+					"price": 5.5,
+					"quantity":1.0 
+				}
+			]
+		}
+
+  -The namespace, System.Text.Json,  provides functionalities for serializing to, and deserializing from JSON's data.  
+  -The class JsonSerializer provides static overloading method Serialize() to serialize objects or values of specified type to JSON's data
+   and a static method Deserialize() to deserialize JSON's data into objects or values of specified type.
+
+References:
+	https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-overview?pivots=dotnet-6-0
+	https://docs.microsoft.com/en-us/dotnet/api/system.text.json.jsonserializer?view=net-6.0
+	https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-how-to?pivots=dotnet-6-0
+
+
+
+ 

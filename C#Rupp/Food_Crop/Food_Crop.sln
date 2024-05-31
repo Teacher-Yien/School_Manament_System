@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Food_Crop", "Food_Crop.csproj", "{23D9BA8E-F71A-4425-8397-473B3BF3BE8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23D9BA8E-F71A-4425-8397-473B3BF3BE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D9BA8E-F71A-4425-8397-473B3BF3BE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D9BA8E-F71A-4425-8397-473B3BF3BE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D9BA8E-F71A-4425-8397-473B3BF3BE8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9C2B99F-FB4F-4F33-A715-0B34627F0198}
+	EndGlobalSection
+EndGlobal

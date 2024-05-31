@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleMgrConcole", "PeopleMgrConcole\PeopleMgrConcole.csproj", "{10097F91-4969-4BE4-A97D-003AF401BA4B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeopleLibrary", "..\HandOut\PeopleLibrary\PeopleLibrary.csproj", "{B3B6041A-66A9-4F5D-A070-6C32154E167C}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "PeopleManagement", "PeopleMgrConcole\Assemblies\PeopleManagement.exe", "{F20DB178-0934-4CBB-A57A-652166321CD3}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Administrator\Desktop\c#\C#Rupp\PeopleMgr\PeopleMgrConcole\Assemblies\PeopleManagement.exe
+		RemoteMachine = DESKTOP-T1JML11
+		StartingDirectory = C:\Users\Administrator\Desktop\c#\C#Rupp\PeopleMgr\PeopleMgrConcole\Assemblies
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10097F91-4969-4BE4-A97D-003AF401BA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10097F91-4969-4BE4-A97D-003AF401BA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10097F91-4969-4BE4-A97D-003AF401BA4B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{10097F91-4969-4BE4-A97D-003AF401BA4B}.Debug|x64.Build.0 = Debug|Any CPU
+		{10097F91-4969-4BE4-A97D-003AF401BA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10097F91-4969-4BE4-A97D-003AF401BA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10097F91-4969-4BE4-A97D-003AF401BA4B}.Release|x64.ActiveCfg = Release|Any CPU
+		{10097F91-4969-4BE4-A97D-003AF401BA4B}.Release|x64.Build.0 = Release|Any CPU
+		{B3B6041A-66A9-4F5D-A070-6C32154E167C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B6041A-66A9-4F5D-A070-6C32154E167C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B6041A-66A9-4F5D-A070-6C32154E167C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B3B6041A-66A9-4F5D-A070-6C32154E167C}.Debug|x64.Build.0 = Debug|Any CPU
+		{B3B6041A-66A9-4F5D-A070-6C32154E167C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B6041A-66A9-4F5D-A070-6C32154E167C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B6041A-66A9-4F5D-A070-6C32154E167C}.Release|x64.ActiveCfg = Release|Any CPU
+		{B3B6041A-66A9-4F5D-A070-6C32154E167C}.Release|x64.Build.0 = Release|Any CPU
+		{F20DB178-0934-4CBB-A57A-652166321CD3}.Debug|Any CPU.ActiveCfg = Release|x64
+		{F20DB178-0934-4CBB-A57A-652166321CD3}.Debug|x64.ActiveCfg = Release|x64
+		{F20DB178-0934-4CBB-A57A-652166321CD3}.Release|Any CPU.ActiveCfg = Release|x64
+		{F20DB178-0934-4CBB-A57A-652166321CD3}.Release|x64.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF1A48E8-2B62-495E-A403-AB5ED808A0F9}
+	EndGlobalSection
+EndGlobal

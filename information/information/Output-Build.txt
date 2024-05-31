@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: information, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>information -> C:\Users\Administrator\Desktop\c#\information\information\bin\Debug\net6.0-windows\information.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 11:57 AM and took 00.378 seconds ==========

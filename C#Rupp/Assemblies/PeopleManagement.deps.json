@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PeopleManagement/1.0.0": {
+        "dependencies": {
+          "MenuLibrary": "1.0.0",
+          "PeopleLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PeopleManagement.dll": {}
+        }
+      },
+      "MenuLibrary/1.0.0": {
+        "runtime": {
+          "MenuLibrary.dll": {}
+        }
+      },
+      "PeopleLibrary/1.0.0": {
+        "runtime": {
+          "PeopleLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeopleManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MenuLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PeopleLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

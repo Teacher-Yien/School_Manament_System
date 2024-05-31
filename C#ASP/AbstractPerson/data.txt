@@ -1,0 +1,9 @@
+﻿Student=>Heng Dara/Male/25/4/E3
+Student=>Chum Vanny/Male/21/2/M7
+Employee=>Van SongHeng/Male/45/Golden State Co.LTD/1500.0
+Teacher=>Prak Hong/Male/33/Royal University of Phnom Penh/M2, M5, M8
+Student=>Um Vanneary/Female/28/4/E6
+Teacher=>Keo Phanny/Female/38/BakTouk High School/G8H1, G8A1, G8B2
+Employee=>Pov Vanthon/Male/33/Golden State Co.LTD/800.0
+Employee=>An Mony/Female/38/State Trusty TK/600.0
+Student=>Keo Vantha/Female/33/4/E3
